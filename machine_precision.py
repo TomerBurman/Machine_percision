@@ -9,3 +9,4 @@ def machine_precision():
         x /= 2
         temp += 1
     print(f"Smallest number: {eps}, iterations: {temp}")
+
